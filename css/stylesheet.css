@@ -71,6 +71,6 @@ footer {
 @media (min-width: 800px) {
   section a {
   margin: 0 35% 0;
-  padding: 50px;
+  padding-top: 50px;
   }
 }
