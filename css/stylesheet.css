@@ -66,6 +66,10 @@ footer {
   h1 {
     font-size: 20px;
   }
+
+  a {
+    font-size: 30px;
+  }
 }
 
 @media (min-width: 800px) {
