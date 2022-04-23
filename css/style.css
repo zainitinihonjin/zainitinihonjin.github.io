@@ -1,0 +1,60 @@
+/* common */
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: rgb(0, 31, 133);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* header */
+
+header {
+  font-size: 14px;
+  padding: 10px 0px;
+}
+
+/* main */
+
+main {
+  padding: 50px;
+  background-image: url(../img/city3_png\ by\ RnGm.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+}
+
+li {
+  font-size: 25px;
+  list-style: none;
+  padding: 30px;
+}
+
+main li a {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(169, 232, 22);
+}
+
+/* footer */
+
+footer {
+  padding: 30px;
+  background-color: rgb(65, 0, 157);
+  color: rgb(255, 255, 255);
+}
+
+/* large screen */
+/* @media (min-width: 400px) {
+
+  main {
+    background-image: url(../img/city3_png\ by\ RnGm.png);
+    background-position: center top;
+    background-size: cover;
+  }
+} */
